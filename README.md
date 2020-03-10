@@ -16,3 +16,6 @@ Run Proteus in background:
 ```bash
 $ ./run_proteus.sh background
 ```
+
+Maybe try this???    
+http://www.npcole.com/npyscreen/
